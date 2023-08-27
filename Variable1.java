@@ -5,7 +5,7 @@ public class Variable1 {
 	public static void main(String[] args) {
 
 		System.out.println("Variable One");
-		
+		//this is new chane
 		int a=5;
 		System.out.println(a);
 		
