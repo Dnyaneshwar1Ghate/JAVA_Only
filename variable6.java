@@ -1,6 +1,6 @@
-package Javapackage;
+package JAVA_Only;
 
-public class Variable6 {
+public class variable6 {
 
 	public static void main(String[] args) {
 		System.out.println("Variable Six");

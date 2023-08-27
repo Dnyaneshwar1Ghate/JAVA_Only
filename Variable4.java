@@ -1,4 +1,4 @@
-package Javapackage;
+package JAVA_Only;
 
 public class Variable4 {
 
